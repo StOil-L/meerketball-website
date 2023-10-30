@@ -2,9 +2,9 @@
 
 ## Authors
 
-Cédric CAHUZAC
+Cédric BERTHET
 
-Robin L'HUILLIER
+[Robin L'HUILLIER](https://gitlab.com/RobinLHuillier)
 
 [Charlotte PARIENTI FABRE](https://gitlab.com/CharlottePF)
 
