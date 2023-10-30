@@ -10,7 +10,7 @@
 <?php
 session_start();
 
-include("connexion.php");
+include("../CadreStatique/connexion.php");
 
 try{
 	$dbh=new PDO("mysql:host=$host;dbname=$dbname;charset=UTF8",$user,$pass,array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION));

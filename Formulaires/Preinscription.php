@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("connexion.php");
+include("../CadreStatique/connexion.php");
 date_default_timezone_set('Europe/Paris');
 
 
